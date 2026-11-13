@@ -1,0 +1,7 @@
+# regenerables (descargas.py / analisis.py / peso_distancia.py); peso_distancia.pkl supera el límite de 100 MB de GitHub
+**/__pycache__/
+*.pyc
+.DS_Store
+analisis_distancia_estaciones/cache/
+*.cdsapirc
+.env
